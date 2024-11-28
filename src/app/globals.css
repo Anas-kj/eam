@@ -64,3 +64,9 @@
     @apply bg-background text-foreground;
   }
 }
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  src: url('../assets/fonts/bricolage.ttf') format('truetype'); /* Adjust path as needed */
+  font-weight: 600;
+  font-style: normal;
+}
